@@ -1,0 +1,17 @@
+.btn-mi{
+    position: fixed;
+    right: 110px;
+    bottom: 40px;
+    z-index: 100;
+}
+.botons {
+    float: right;
+    text-decoration: none;
+}
+
+.nav-item {
+   list-style: none;
+   color: white;
+   font-weight: bold;
+   margin-right: 50px;
+}
